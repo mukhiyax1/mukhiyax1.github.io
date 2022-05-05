@@ -1,0 +1,65 @@
+header{width:auto;
+	height: auto;
+	text-align: center;
+	padding-bottom: 20px;
+font-color:white;
+background-image:url(frusbeegirls.jpg);
+object-fit: cover;
+background-repeat:;
+}
+header h1{color:white;
+opacity: 90%;}
+nav{margin:20px 20px;}
+
+ a{border:1px solid transparent ;
+	display:inline-block;
+ margin-left:150px;
+ padding: 15px 30px 15px 30px ;
+color:purple;border-radius: 10px;
+position: relative;
+background-color:rgba(300,300,300,.3);
+text-decoration: none}
+
+ a:hover{background-color: #ffffff;}
+
+.container{
+	width:100%;
+	max-width: 1280px;
+    margin: 0 auto;
+	height:auto;
+position:relative;}
+ .images{
+width:auto;
+height: 100%;
+background-color:#00600090;
+position:absolute;}
+.images img{display: block;
+	object-fit:cover;
+	padding:20px;
+	margin:auto;
+	width:100px;
+	height: 100px;
+}
+
+.container-child{margin-left:160px;}
+.container-child table{margin-left:50px;
+	width:100%;}
+
+table,tr,th,td{ border:5px solid #ffffff;
+padding:5px;
+background-color:#00220010;
+border-collapse: collapse;
+border-radius:;}
+
+tr,th,td{border-radius:10px;}
+
+th{background-color:#00600090;}
+
+tr:nth-child(even){background-color: #2f2f2f50}
+tr:hover{background-color: #f2f2f2;}
+
+
+td:last-child,
+td:nth-child(2) {
+    text-align:center;
+}
